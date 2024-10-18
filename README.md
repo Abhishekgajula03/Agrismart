@@ -1,6 +1,6 @@
 # Agrismart
 
-1st app.py explaination to be understood to everyone step by step
+######1st app.py explaination to be understood to everyone step by step###########
 This code is for a Flask-based web application that predicts the most suitable crop to be cultivated based on input features like soil nutrients and weather conditions. Here's an explanation of the code:
 
 1. Importing Libraries:
@@ -97,7 +97,7 @@ This Flask app collects user input, preprocesses it, makes predictions using a m
 
 
 
-2nd explaination for crops.py 
+#######2nd explaination for crops.py ##########
 This code is a basic exploratory data analysis (EDA) on a dataset (Crop_recommendation.csv) containing crop recommendation data. Below is a detailed explanation of what each part of the code does:
 
 1. Importing Libraries:
